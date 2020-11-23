@@ -1,0 +1,40 @@
+body {
+    color:white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+.border {
+            border: 5px inset darkblue;
+            }
+
+nav {
+        font-size: 20px
+        }
+
+h1 {
+    color: lightblue;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 40px
+    }
+
+h2 {
+    color: lightblue;
+    font-family: Verdana, Geneva;
+    font-size: 25px    
+    }    
+
+ul {
+    list-style-type: circle;
+    font-size:20px;
+    }
+
+.leeftijd {
+    color: lightblue;
+    list-style-type: none;
+    font-size: 14px;
+    }
+
+p   {
+    font-size: 15px;
+    }
